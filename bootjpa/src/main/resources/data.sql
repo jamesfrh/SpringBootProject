@@ -1,0 +1,10 @@
+insert into alien values (1,'james','java');
+insert into alien values (2,'john','c#');
+insert into alien values (23,'amy','js');
+insert into alien values (42,'bob','python');
+insert into alien values (5,'clark','java');
+insert into alien values (21,'bruce','c#');
+insert into alien values (16,'barry','js');
+insert into alien values (9,'kent','c#');
+insert into alien values (12,'susan','python');
+insert into alien values (15,'caleb','java');
